@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/riocss/riocss/master/artefacts/logo/logo-riocss.png" width="200px" alt="Rio.css Logo">
 
-## Meetups já realizados
-
 ### Meetup #01 - Grid Layout | Maujor
 
 * **Tema:** CSS Grid Layout
