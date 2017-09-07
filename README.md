@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/riocss/riocss/master/artefacts/logo/logo-riocss.png" width="200px" alt="Rio.css Logo">
 
-** Página do Meetup:** [Link](https://www.meetup.com/pt-BR/Rio-css/)
+**Página do Meetup:** [Link](https://www.meetup.com/pt-BR/Rio-css/)
 
 ## Meetups já realizados
 
