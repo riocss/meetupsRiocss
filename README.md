@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/riocss/riocss/master/artefacts/logo/logo-riocss.png" width="200px" alt="Rio.css Logo">
 
+**Obs:** Antes de participar veja nosso [código de conduta](https://github.com/riocss/riocss/blob/master/CONDUTA.MD)
+
 **Página do Meetup:** [Link](http://bit.ly/meetupRiocssGithub)
 **Twitter:** [Link](http://bit.ly/twitterRiocssGithub)
 **Facebook:** [Link](http://bit.ly/faceRiocssGithub)
