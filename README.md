@@ -5,8 +5,12 @@
 **Obs:** Antes de participar veja nosso [código de conduta](https://github.com/riocss/riocss/blob/master/CONDUTA.MD)
 
 **Página do Meetup:** [Link](http://bit.ly/meetupRiocssGithub)
+
 **Twitter:** [Link](http://bit.ly/twitterRiocssGithub)
+
 **Facebook:** [Link](http://bit.ly/faceRiocssGithub)
+
+**Telegram do grupo:** [Link](https://t.me/cssRJ)
 
 ## Meetups já realizados
 
