@@ -33,7 +33,13 @@
 * **Data:** 17/10/2017
 * **Local:** B2W Digital
 * **Endereço:** Rua Sacadura Cabral, 130 - Saúde
-* **Participantes:** ?
+* **Participantes:** [@lucianobarauna](https://twitter.com/magoopv), [@aboutlukey](https://twitter.com/aboutlukey)
+* **Links dos participantes:**
+  * [Animando uma bola com css](https://codepen.io/lucianobarauna/pen/KXrPBL) - [@lucianobarauna](https://twitter.com/magoopv)
+  * [Usando pug e Sass em desenhos](https://codepen.io/lucianobarauna/pen/pWaMWb) - [@lucianobarauna](https://twitter.com/magoopv)
+  * [CSS Gameboy Color + React](https://codepen.io/lucasmedina/pen/jGBEgq) - [@aboutlukey](https://twitter.com/aboutlukey)
+  * [Ball - Animation Controllers with CSS](https://codepen.io/lucasmedina/pen/YZJxjJ) - [@aboutlukey](https://twitter.com/aboutlukey)
+  
 * **Link do Meetup:** [Link](https://www.meetup.com/pt-BR/Rio-css/events/243945151/)
 * **Fotos:** [Link](https://github.com/riocss/riocss/tree/meetup-02/artefacts/fotos-evento-02)
 
