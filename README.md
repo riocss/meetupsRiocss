@@ -26,4 +26,14 @@
 * **Fotos:** [Link](https://github.com/riocss/riocss/tree/meetup-01/artefacts/fotos-evento-01)
 - **Video:** [Link](https://youtu.be/rVVwNTTkNpc)
 
+### Meetup #02 - Desenhando com CSS | Matheus Mesquita
+
+* **Tema:** Desenhando com CSS
+* **Palestrante:** [Matheus Mesquita](https://twitter.com/_mathmesquita)
+* **Data:** 17/10/2017
+* **Local:** B2W Digital
+* **Endereço:** Rua Sacadura Cabral, 130 - Saúde
+* **Participantes:** ?
+* **Link do Meetup:** [Link](https://www.meetup.com/pt-BR/Rio-css/events/243945151/)
+* **Fotos:** [Link](https://github.com/riocss/riocss/tree/meetup-02/artefacts/fotos-evento-02)
 
